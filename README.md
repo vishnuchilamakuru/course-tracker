@@ -491,7 +491,7 @@ This is a long tutorial to follow. Hope you enjoyed this ...!!
 ## Thank you for reading
 Hope you find these resources useful. If you like what you read and want to see more about system design, microservices, and other technology-related stuff... You can follow me on 
 
-- #### Twitter - <a href="https://twitter.com/vishnuchi?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @vishnuchi</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- #### Twitter - <a href="https://twitter.com/vishnuchi?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @vishnuchi</a>
 - #### Subscribe to my weekly newsletter [here](https://www.getrevue.co/profile/vishnuch).
 
 <hr>
