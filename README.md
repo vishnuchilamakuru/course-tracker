@@ -8,6 +8,19 @@ For this tutorial, I will be using
 
 But this step-by-step tutorial should work for the latest Ruby & Rails versions as well.
 
+Index:
+
+* [Create a project](#create-a-project)
+* [Start server](#start-server)
+* [Create Model, Controller and Views](#create-model-controller-and-views)
+* [Database Migration](#database-migration)
+* [Change Application Root](#change-application-root)
+* [Integrate Bootstrap](#integrate-bootstrap)
+* [Add Navigation Bar](#add-navigation-bar)
+* [Add Course status Select option](#add-course-status-select-option)
+* [Styling Course Forms](#styling-course-forms)
+
+
 ## Create a project
 
 ```
@@ -484,6 +497,7 @@ After styling, Show Course Form Looks like this.
 ![fullpage.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1622128168272/ztuLhuXRO.png)
 
 This is a long tutorial to follow. Hope you enjoyed this ...!!
+If you like this, please give star for this Github repository.
 
 
 <hr>
