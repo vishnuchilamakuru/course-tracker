@@ -1,3 +1,5 @@
+![fullpage.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1622128168272/ztuLhuXRO.png)
+
 Most of the developers do take online courses across various platforms like Udemy, Coursera, Edx, etc... In this post, I will explain how to build a basic course tracker application using Ruby on Rails, which can help to track the progress of your courses.
 
 For this tutorial, I will be using
